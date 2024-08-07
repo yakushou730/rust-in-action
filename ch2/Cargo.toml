@@ -1,0 +1,9 @@
+[package]
+name = "ch2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "4"
+num = "0.4"
+regex = "1"
